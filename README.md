@@ -17,4 +17,3 @@ Each project is designed to reinforce core C# skills such as:
 - IDE: Visual Studio  
 - Framework: .NET Framework  
 
-## 📁 Repository Structure

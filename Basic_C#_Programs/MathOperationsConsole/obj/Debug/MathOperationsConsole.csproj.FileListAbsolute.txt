@@ -1,0 +1,7 @@
+C:\Users\dsanchez\source\repos\Basic_C#_Programs\MathOperationsConsole\bin\Debug\MathOperationsConsole.exe.config
+C:\Users\dsanchez\source\repos\Basic_C#_Programs\MathOperationsConsole\bin\Debug\MathOperationsConsole.exe
+C:\Users\dsanchez\source\repos\Basic_C#_Programs\MathOperationsConsole\bin\Debug\MathOperationsConsole.pdb
+C:\Users\dsanchez\source\repos\Basic_C#_Programs\MathOperationsConsole\obj\Debug\MathOperationsConsole.csproj.AssemblyReference.cache
+C:\Users\dsanchez\source\repos\Basic_C#_Programs\MathOperationsConsole\obj\Debug\MathOperationsConsole.csproj.CoreCompileInputs.cache
+C:\Users\dsanchez\source\repos\Basic_C#_Programs\MathOperationsConsole\obj\Debug\MathOperationsConsole.exe
+C:\Users\dsanchez\source\repos\Basic_C#_Programs\MathOperationsConsole\obj\Debug\MathOperationsConsole.pdb

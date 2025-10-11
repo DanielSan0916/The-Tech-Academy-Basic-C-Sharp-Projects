@@ -1,0 +1,15 @@
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Console App Array Assignment\bin\Debug\net8.0\Console App Array Assignment.exe
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Console App Array Assignment\bin\Debug\net8.0\Console App Array Assignment.deps.json
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Console App Array Assignment\bin\Debug\net8.0\Console App Array Assignment.runtimeconfig.json
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Console App Array Assignment\bin\Debug\net8.0\Console App Array Assignment.dll
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Console App Array Assignment\bin\Debug\net8.0\Console App Array Assignment.pdb
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Console App Array Assignment\obj\Debug\net8.0\Console App Array Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Console App Array Assignment\obj\Debug\net8.0\Console App Array Assignment.AssemblyInfoInputs.cache
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Console App Array Assignment\obj\Debug\net8.0\Console App Array Assignment.AssemblyInfo.cs
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Console App Array Assignment\obj\Debug\net8.0\Console App Array Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Console App Array Assignment\obj\Debug\net8.0\Console App Array Assignment.sourcelink.json
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Console App Array Assignment\obj\Debug\net8.0\Console App Array Assignment.dll
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Console App Array Assignment\obj\Debug\net8.0\refint\Console App Array Assignment.dll
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Console App Array Assignment\obj\Debug\net8.0\Console App Array Assignment.pdb
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Console App Array Assignment\obj\Debug\net8.0\Console App Array Assignment.genruntimeconfig.cache
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Console App Array Assignment\obj\Debug\net8.0\ref\Console App Array Assignment.dll

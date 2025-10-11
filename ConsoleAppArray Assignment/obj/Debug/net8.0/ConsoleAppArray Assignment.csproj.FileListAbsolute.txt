@@ -1,0 +1,15 @@
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppArray Assignment\bin\Debug\net8.0\ConsoleAppArray Assignment.exe
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppArray Assignment\bin\Debug\net8.0\ConsoleAppArray Assignment.deps.json
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppArray Assignment\bin\Debug\net8.0\ConsoleAppArray Assignment.runtimeconfig.json
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppArray Assignment\bin\Debug\net8.0\ConsoleAppArray Assignment.dll
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppArray Assignment\bin\Debug\net8.0\ConsoleAppArray Assignment.pdb
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppArray Assignment\obj\Debug\net8.0\ConsoleAppArray Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppArray Assignment\obj\Debug\net8.0\ConsoleAppArray Assignment.AssemblyInfoInputs.cache
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppArray Assignment\obj\Debug\net8.0\ConsoleAppArray Assignment.AssemblyInfo.cs
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppArray Assignment\obj\Debug\net8.0\ConsoleAppArray Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppArray Assignment\obj\Debug\net8.0\ConsoleAppArray Assignment.sourcelink.json
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppArray Assignment\obj\Debug\net8.0\ConsoleAppArray Assignment.dll
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppArray Assignment\obj\Debug\net8.0\refint\ConsoleAppArray Assignment.dll
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppArray Assignment\obj\Debug\net8.0\ConsoleAppArray Assignment.pdb
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppArray Assignment\obj\Debug\net8.0\ConsoleAppArray Assignment.genruntimeconfig.cache
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppArray Assignment\obj\Debug\net8.0\ref\ConsoleAppArray Assignment.dll

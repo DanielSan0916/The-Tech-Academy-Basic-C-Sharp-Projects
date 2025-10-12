@@ -1,0 +1,15 @@
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\ConstructorAssignmentConsoleAPp\bin\Debug\net8.0\ConstructorAssignmentConsoleAPp.exe
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\ConstructorAssignmentConsoleAPp\bin\Debug\net8.0\ConstructorAssignmentConsoleAPp.deps.json
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\ConstructorAssignmentConsoleAPp\bin\Debug\net8.0\ConstructorAssignmentConsoleAPp.runtimeconfig.json
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\ConstructorAssignmentConsoleAPp\bin\Debug\net8.0\ConstructorAssignmentConsoleAPp.dll
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\ConstructorAssignmentConsoleAPp\bin\Debug\net8.0\ConstructorAssignmentConsoleAPp.pdb
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\ConstructorAssignmentConsoleAPp\obj\Debug\net8.0\ConstructorAssignmentConsoleAPp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\ConstructorAssignmentConsoleAPp\obj\Debug\net8.0\ConstructorAssignmentConsoleAPp.AssemblyInfoInputs.cache
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\ConstructorAssignmentConsoleAPp\obj\Debug\net8.0\ConstructorAssignmentConsoleAPp.AssemblyInfo.cs
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\ConstructorAssignmentConsoleAPp\obj\Debug\net8.0\ConstructorAssignmentConsoleAPp.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\ConstructorAssignmentConsoleAPp\obj\Debug\net8.0\ConstructorAssignmentConsoleAPp.sourcelink.json
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\ConstructorAssignmentConsoleAPp\obj\Debug\net8.0\ConstructorAssignmentConsoleAPp.dll
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\ConstructorAssignmentConsoleAPp\obj\Debug\net8.0\refint\ConstructorAssignmentConsoleAPp.dll
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\ConstructorAssignmentConsoleAPp\obj\Debug\net8.0\ConstructorAssignmentConsoleAPp.pdb
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\ConstructorAssignmentConsoleAPp\obj\Debug\net8.0\ConstructorAssignmentConsoleAPp.genruntimeconfig.cache
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\ConstructorAssignmentConsoleAPp\obj\Debug\net8.0\ref\ConstructorAssignmentConsoleAPp.dll

@@ -1,0 +1,15 @@
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\OperatorsAssignmentConsoleApp\obj\Debug\net8.0\OperatorsAssignmentConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\OperatorsAssignmentConsoleApp\obj\Debug\net8.0\OperatorsAssignmentConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\OperatorsAssignmentConsoleApp\obj\Debug\net8.0\OperatorsAssignmentConsoleApp.AssemblyInfo.cs
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\OperatorsAssignmentConsoleApp\obj\Debug\net8.0\OperatorsAssignmentConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\OperatorsAssignmentConsoleApp\obj\Debug\net8.0\OperatorsAssignmentConsoleApp.sourcelink.json
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\OperatorsAssignmentConsoleApp\bin\Debug\net8.0\OperatorsAssignmentConsoleApp.exe
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\OperatorsAssignmentConsoleApp\bin\Debug\net8.0\OperatorsAssignmentConsoleApp.deps.json
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\OperatorsAssignmentConsoleApp\bin\Debug\net8.0\OperatorsAssignmentConsoleApp.runtimeconfig.json
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\OperatorsAssignmentConsoleApp\bin\Debug\net8.0\OperatorsAssignmentConsoleApp.dll
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\OperatorsAssignmentConsoleApp\bin\Debug\net8.0\OperatorsAssignmentConsoleApp.pdb
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\OperatorsAssignmentConsoleApp\obj\Debug\net8.0\OperatorsAssignmentConsoleApp.dll
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\OperatorsAssignmentConsoleApp\obj\Debug\net8.0\refint\OperatorsAssignmentConsoleApp.dll
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\OperatorsAssignmentConsoleApp\obj\Debug\net8.0\OperatorsAssignmentConsoleApp.pdb
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\OperatorsAssignmentConsoleApp\obj\Debug\net8.0\OperatorsAssignmentConsoleApp.genruntimeconfig.cache
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\OperatorsAssignmentConsoleApp\obj\Debug\net8.0\ref\OperatorsAssignmentConsoleApp.dll

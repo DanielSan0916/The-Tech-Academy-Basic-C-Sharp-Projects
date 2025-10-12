@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Six-Part Consol App Assignment")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3750ae4b0aabb5b6ee5d3ed5529d65f6c65e1b66")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+97e4aef7828a635879d2671aa477a5eee704fb22")]
 [assembly: System.Reflection.AssemblyProductAttribute("Six-Part Consol App Assignment")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Six-Part Consol App Assignment")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

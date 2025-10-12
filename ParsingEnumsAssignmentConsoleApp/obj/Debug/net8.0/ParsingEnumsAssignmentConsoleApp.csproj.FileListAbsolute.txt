@@ -1,0 +1,15 @@
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\ParsingEnumsAssignmentConsoleApp\obj\Debug\net8.0\ParsingEnumsAssignmentConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\ParsingEnumsAssignmentConsoleApp\obj\Debug\net8.0\ParsingEnumsAssignmentConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\ParsingEnumsAssignmentConsoleApp\obj\Debug\net8.0\ParsingEnumsAssignmentConsoleApp.AssemblyInfo.cs
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\ParsingEnumsAssignmentConsoleApp\obj\Debug\net8.0\ParsingEnumsAssignmentConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\ParsingEnumsAssignmentConsoleApp\obj\Debug\net8.0\ParsingEnumsAssignmentConsoleApp.sourcelink.json
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\ParsingEnumsAssignmentConsoleApp\bin\Debug\net8.0\ParsingEnumsAssignmentConsoleApp.exe
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\ParsingEnumsAssignmentConsoleApp\bin\Debug\net8.0\ParsingEnumsAssignmentConsoleApp.deps.json
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\ParsingEnumsAssignmentConsoleApp\bin\Debug\net8.0\ParsingEnumsAssignmentConsoleApp.runtimeconfig.json
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\ParsingEnumsAssignmentConsoleApp\bin\Debug\net8.0\ParsingEnumsAssignmentConsoleApp.dll
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\ParsingEnumsAssignmentConsoleApp\bin\Debug\net8.0\ParsingEnumsAssignmentConsoleApp.pdb
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\ParsingEnumsAssignmentConsoleApp\obj\Debug\net8.0\ParsingEnumsAssignmentConsoleApp.dll
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\ParsingEnumsAssignmentConsoleApp\obj\Debug\net8.0\refint\ParsingEnumsAssignmentConsoleApp.dll
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\ParsingEnumsAssignmentConsoleApp\obj\Debug\net8.0\ParsingEnumsAssignmentConsoleApp.pdb
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\ParsingEnumsAssignmentConsoleApp\obj\Debug\net8.0\ParsingEnumsAssignmentConsoleApp.genruntimeconfig.cache
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\ParsingEnumsAssignmentConsoleApp\obj\Debug\net8.0\ref\ParsingEnumsAssignmentConsoleApp.dll

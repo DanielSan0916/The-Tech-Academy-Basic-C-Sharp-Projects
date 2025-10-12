@@ -1,0 +1,15 @@
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\Six-Part Consol App Assignment\obj\Debug\net8.0\Six-Part Consol App Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\Six-Part Consol App Assignment\obj\Debug\net8.0\Six-Part Consol App Assignment.AssemblyInfoInputs.cache
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\Six-Part Consol App Assignment\obj\Debug\net8.0\Six-Part Consol App Assignment.AssemblyInfo.cs
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\Six-Part Consol App Assignment\obj\Debug\net8.0\Six-Part Consol App Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\Six-Part Consol App Assignment\obj\Debug\net8.0\Six-Part Consol App Assignment.sourcelink.json
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\Six-Part Consol App Assignment\bin\Debug\net8.0\Six-Part Consol App Assignment.exe
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\Six-Part Consol App Assignment\bin\Debug\net8.0\Six-Part Consol App Assignment.deps.json
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\Six-Part Consol App Assignment\bin\Debug\net8.0\Six-Part Consol App Assignment.runtimeconfig.json
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\Six-Part Consol App Assignment\bin\Debug\net8.0\Six-Part Consol App Assignment.dll
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\Six-Part Consol App Assignment\bin\Debug\net8.0\Six-Part Consol App Assignment.pdb
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\Six-Part Consol App Assignment\obj\Debug\net8.0\Six-Part Consol App Assignment.dll
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\Six-Part Consol App Assignment\obj\Debug\net8.0\refint\Six-Part Consol App Assignment.dll
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\Six-Part Consol App Assignment\obj\Debug\net8.0\Six-Part Consol App Assignment.pdb
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\Six-Part Consol App Assignment\obj\Debug\net8.0\Six-Part Consol App Assignment.genruntimeconfig.cache
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\Six-Part Consol App Assignment\obj\Debug\net8.0\ref\Six-Part Consol App Assignment.dll

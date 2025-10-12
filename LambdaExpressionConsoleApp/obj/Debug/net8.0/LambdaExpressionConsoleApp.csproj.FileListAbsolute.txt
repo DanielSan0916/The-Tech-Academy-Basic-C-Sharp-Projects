@@ -1,0 +1,15 @@
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\LambdaExpressionConsoleApp\bin\Debug\net8.0\LambdaExpressionConsoleApp.exe
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\LambdaExpressionConsoleApp\bin\Debug\net8.0\LambdaExpressionConsoleApp.deps.json
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\LambdaExpressionConsoleApp\bin\Debug\net8.0\LambdaExpressionConsoleApp.runtimeconfig.json
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\LambdaExpressionConsoleApp\bin\Debug\net8.0\LambdaExpressionConsoleApp.dll
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\LambdaExpressionConsoleApp\bin\Debug\net8.0\LambdaExpressionConsoleApp.pdb
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\LambdaExpressionConsoleApp\obj\Debug\net8.0\LambdaExpressionConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\LambdaExpressionConsoleApp\obj\Debug\net8.0\LambdaExpressionConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\LambdaExpressionConsoleApp\obj\Debug\net8.0\LambdaExpressionConsoleApp.AssemblyInfo.cs
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\LambdaExpressionConsoleApp\obj\Debug\net8.0\LambdaExpressionConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\LambdaExpressionConsoleApp\obj\Debug\net8.0\LambdaExpressionConsoleApp.sourcelink.json
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\LambdaExpressionConsoleApp\obj\Debug\net8.0\LambdaExpressionConsoleApp.dll
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\LambdaExpressionConsoleApp\obj\Debug\net8.0\refint\LambdaExpressionConsoleApp.dll
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\LambdaExpressionConsoleApp\obj\Debug\net8.0\LambdaExpressionConsoleApp.pdb
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\LambdaExpressionConsoleApp\obj\Debug\net8.0\LambdaExpressionConsoleApp.genruntimeconfig.cache
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\LambdaExpressionConsoleApp\obj\Debug\net8.0\ref\LambdaExpressionConsoleApp.dll

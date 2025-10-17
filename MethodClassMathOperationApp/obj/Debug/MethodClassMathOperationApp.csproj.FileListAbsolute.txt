@@ -1,0 +1,8 @@
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\MethodClassMathOperationApp\bin\Debug\MethodClassMathOperationApp.exe.config
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\MethodClassMathOperationApp\bin\Debug\MethodClassMathOperationApp.exe
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\MethodClassMathOperationApp\bin\Debug\MethodClassMathOperationApp.pdb
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\MethodClassMathOperationApp\obj\Debug\MethodClassMathOperationApp.csproj.AssemblyReference.cache
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\MethodClassMathOperationApp\obj\Debug\MethodClassMathOperationApp.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\MethodClassMathOperationApp\obj\Debug\MethodClassMathOperationApp.exe
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\MethodClassMathOperationApp\obj\Debug\MethodClassMathOperationApp.pdb
+C:\Users\Daniel\source\repos\DanielSan0916\The-Tech-Academy-Basic-C-Sharp-Projects\MethodClassMathOperationApp\obj\Debug\MethodClassMathOperationApp.exe.config
